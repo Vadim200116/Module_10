@@ -1,0 +1,25 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+.card-header{
+    background: rgb(115, 115, 236);
+}
+.card-footer{
+    background: rosybrown;
+}
+.btn-link{
+    color: white;
+}
+#divStart{
+    font-size: 1.5rem;
+    height: 25vh;
+}
+#divStart>p{
+    color: lightslategrey;
+    font-size: 2rem;
+}
+#inp_minValue, #inp_maxValue{
+    border: 0px;
+    background: inherit;
+}
